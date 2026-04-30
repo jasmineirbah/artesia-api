@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Galeri Nasional Indonesia",
+    "lat": -6.1783,
+    "lng": 106.8294,
+    "image": "https://images.unsplash.com/photo-1582562124811-c09040d0a901"
+  },
+  {
+    "name": "Museum MACAN",
+    "lat": -6.1751,
+    "lng": 106.7906,
+    "image": "https://images.unsplash.com/photo-1578926288207-a90a5366759d"
+  },
+  {
+    "name": "Art New Museum",
+    "lat": -6.1605,
+    "lng": 106.8061,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+  },
+  {
+    "name": "Museum Seni Rupa dan Keramik",
+    "lat": -6.1349,
+    "lng": 106.8133,
+    "image": "https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1"
+  },
+  {
+    "name": "Dia.Lo.Gue Artspace",
+    "lat": -6.2553,
+    "lng": 106.7816,
+    "image": "https://images.unsplash.com/photo-1520697222868-07f1d0f1f0c4"
+  }
+]
