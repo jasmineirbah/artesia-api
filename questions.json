@@ -1,0 +1,14 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Raden_Saleh_-_Penangkapan_Pangeran_Diponegoro.jpg",
+    "question": "Siapa pelukis karya ini?",
+    "correct_answer": "Raden Saleh",
+    "options": ["Raden Saleh", "Affandi", "Basuki Abdullah", "Hendra Gunawan"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Affandi_-_Self_Portrait.jpg",
+    "question": "Siapa pelukis karya ini?",
+    "correct_answer": "Affandi",
+    "options": ["Affandi", "Raden Saleh", "Sudjojono", "Basuki Abdullah"]
+  }
+]
