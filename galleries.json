@@ -3,30 +3,30 @@
     "name": "Museum Ullen Sentalu",
     "lat": -7.5964,
     "lng": 110.4236,
-    "image": "assets/images/nearby/ulen.jpg"
+    "image": "assets/nearby/ulen.jpg"
   },
   {
     "name": "Museum Sonobudoyo",
     "lat": -7.8014,
     "lng": 110.3648,
-    "image": "assets/images/nearby/sonobudoyo.jpg"
+    "image": "assets/nearby/sonobudoyo.jpg"
   },
   {
     "name": "Museum Affandi",
     "lat": -7.7829,
     "lng": 110.3965,
-    "image": "assets/images/nearby/affandi.png"
+    "image": "assets/nearby/affandi.png"
   },
   {
     "name": "Jogja National Museum",
     "lat": -7.8010,
     "lng": 110.3545,
-    "image": "assets/images/nearby/jogja-national.jpg"
+    "image": "assets/nearby/jogja-national.jpg"
   },
   {
     "name": "Bentara Budaya Yogyakarta",
     "lat": -7.7832,
     "lng": 110.3671,
-    "image": "assets/images/nearby/bentara.jpg"
+    "image": "assets/nearby/bentara.jpg"
   }
 ]
