@@ -3,30 +3,30 @@
     "name": "Museum Ullen Sentalu",
     "lat": -7.5964,
     "lng": 110.4236,
-    "image": "https://radarmalioboro.jawapos.com/wisata/2408030017/menyaksikan-koleksi-seni-dan-artefak-dengan-mengunjungi-museum-ullen-sentalu-di-lereng-merapi-yogyakarta"
+    "image": "assets/images/nearby/ulen.jpg"
   },
   {
     "name": "Museum Sonobudoyo",
     "lat": -7.8014,
     "lng": 110.3648,
-    "image": "https://arkadewi.id/budaya-jogja/isi-museum-sonobudoyo/"
+    "image": "assets/images/nearby/sonobudoyo.jpg"
   },
   {
     "name": "Museum Affandi",
     "lat": -7.7829,
     "lng": 110.3965,
-    "image": "https://atourin.com/destination/sleman/museum-affandi"
+    "image": "assets/images/nearby/affandi.png"
   },
   {
     "name": "Jogja National Museum",
     "lat": -7.8010,
     "lng": 110.3545,
-    "image": "https://idetrips.com/in/jogja-national-museum/"
+    "image": "assets/images/nearby/jogja-national.jpg"
   },
   {
     "name": "Bentara Budaya Yogyakarta",
     "lat": -7.7832,
     "lng": 110.3671,
-    "image": "https://entertainment.kompas.com/read/2019/04/30/180313610/pameran-puisi-ugm-membuka-mei-2019-di-bentara-budaya-yogyakarta"
+    "image": "assets/images/nearby/bentara.jpg"
   }
 ]
