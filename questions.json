@@ -1,14 +1,155 @@
 [
   {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg",
+    "question": "Apa judul lukisan ini?",
+    "correct_answer": "Mona Lisa",
+    "options": ["Mona Lisa", "The Last Supper", "The Kiss", "Guernica"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg",
+    "question": "Lukisan ini dilukis oleh siapa?",
+    "correct_answer": "Leonardo da Vinci",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Starry_Night.jpg",
+    "question": "Apa judul lukisan ini?",
+    "correct_answer": "The Starry Night",
+    "options": ["The Starry Night", "Sunflowers", "Irises", "Cafe Terrace at Night"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Starry_Night.jpg",
+    "question": "Lukisan ini berasal dari negara mana?",
+    "correct_answer": "Belanda",
+    "options": ["Belanda", "Prancis", "Italia", "Spanyol"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/74/PicassoGuernica.jpg",
+    "question": "Apa judul lukisan ini?",
+    "correct_answer": "Guernica",
+    "options": ["Guernica", "The Scream", "The Kiss", "The Night Watch"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/74/PicassoGuernica.jpg",
+    "question": "Lukisan ini dibuat oleh siapa?",
+    "correct_answer": "Pablo Picasso",
+    "options": ["Pablo Picasso", "Dali", "Van Gogh", "Monet"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg",
+    "question": "Lukisan jam meleleh ini berjudul?",
+    "correct_answer": "The Persistence of Memory",
+    "options": ["The Persistence of Memory", "The Scream", "Guernica", "The Kiss"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg",
+    "question": "Lukisan ini berasal dari negara mana?",
+    "correct_answer": "Norwegia",
+    "options": ["Norwegia", "Swedia", "Denmark", "Finlandia"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Meisje_met_de_parel.jpg",
+    "question": "Apa judul lukisan ini?",
+    "correct_answer": "Girl with a Pearl Earring",
+    "options": ["Girl with a Pearl Earring", "The Milkmaid", "The Night Watch", "Mona Lisa"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Claude_Monet%2C_Impression%2C_soleil_levant.jpg",
+    "question": "Lukisan ini merupakan awal dari aliran apa?",
+    "correct_answer": "Impresionisme",
+    "options": ["Impresionisme", "Realisme", "Abstrak", "Barok"]
+  },
+
+  {
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Raden_Saleh_-_Penangkapan_Pangeran_Diponegoro.jpg",
-    "question": "Siapa pelukis karya ini?",
-    "correct_answer": "Raden Saleh",
-    "options": ["Raden Saleh", "Affandi", "Basuki Abdullah", "Hendra Gunawan"]
+    "question": "Lukisan ini menggambarkan peristiwa apa?",
+    "correct_answer": "Penangkapan Pangeran Diponegoro",
+    "options": ["Penangkapan Pangeran Diponegoro", "Perang Diponegoro", "Proklamasi", "Kolonialisme"]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Affandi_-_Self_Portrait.jpg",
-    "question": "Siapa pelukis karya ini?",
-    "correct_answer": "Affandi",
-    "options": ["Affandi", "Raden Saleh", "Sudjojono", "Basuki Abdullah"]
+    "question": "Pelukis ini berasal dari negara mana?",
+    "correct_answer": "Indonesia",
+    "options": ["Indonesia", "Malaysia", "India", "Thailand"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/The_Birth_of_Venus.jpg",
+    "question": "Apa judul lukisan ini?",
+    "correct_answer": "The Birth of Venus",
+    "options": ["The Birth of Venus", "Mona Lisa", "The Kiss", "Guernica"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Las_Meninas_01.jpg",
+    "question": "Lukisan ini dilukis oleh siapa?",
+    "correct_answer": "Diego Velázquez",
+    "options": ["Velázquez", "Picasso", "Goya", "Van Gogh"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Night_Watch_-_HD.jpg",
+    "question": "Apa judul lukisan ini?",
+    "correct_answer": "The Night Watch",
+    "options": ["The Night Watch", "The Scream", "Guernica", "Mona Lisa"]
+  },
+
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7d/Arnolfini_portrait.jpg",
+    "question": "Lukisan ini berasal dari negara mana?",
+    "correct_answer": "Belanda",
+    "options": ["Belanda", "Italia", "Spanyol", "Prancis"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/The_Kiss_-_Gustav_Klimt.jpg",
+    "question": "Apa judul lukisan ini?",
+    "correct_answer": "The Kiss",
+    "options": ["The Kiss", "Mona Lisa", "Guernica", "The Scream"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Nighthawks_by_Edward_Hopper_1942.jpg",
+    "question": "Apa judul lukisan ini?",
+    "correct_answer": "Nighthawks",
+    "options": ["Nighthawks", "Guernica", "The Kiss", "Mona Lisa"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cafe_Terrace_at_Night.jpg",
+    "question": "Lukisan ini dibuat oleh siapa?",
+    "correct_answer": "Vincent van Gogh",
+    "options": ["Van Gogh", "Monet", "Picasso", "Dali"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Claude_Monet_-_Water_Lilies.jpg",
+    "question": "Apa judul lukisan ini?",
+    "correct_answer": "Water Lilies",
+    "options": ["Water Lilies", "Impression Sunrise", "Guernica", "The Kiss"]
+  },
+
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/19/The_Son_of_Man.jpg",
+    "question": "Lukisan pria dengan apel ini berjudul?",
+    "correct_answer": "The Son of Man",
+    "options": ["The Son of Man", "The Kiss", "Mona Lisa", "The Scream"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Composition_VIII.jpg",
+    "question": "Lukisan ini termasuk aliran apa?",
+    "correct_answer": "Abstrak",
+    "options": ["Abstrak", "Realisme", "Impresionisme", "Barok"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/Broadway_Boogie_Woogie.jpg",
+    "question": "Pelukis karya ini adalah?",
+    "correct_answer": "Piet Mondrian",
+    "options": ["Mondrian", "Kandinsky", "Picasso", "Van Gogh"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Grant_Wood_-_American_Gothic.jpg",
+    "question": "Apa judul lukisan ini?",
+    "correct_answer": "American Gothic",
+    "options": ["American Gothic", "The Kiss", "Mona Lisa", "Guernica"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/36/The_Swing_%28Fragonard%29.jpg",
+    "question": "Lukisan ini dibuat oleh siapa?",
+    "correct_answer": "Jean-Honoré Fragonard",
+    "options": ["Fragonard", "Monet", "Van Gogh", "Picasso"]
   }
 ]
