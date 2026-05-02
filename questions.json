@@ -18,43 +18,43 @@
     "options": ["The Starry Night", "Sunflowers", "Irises", "Cafe Terrace at Night"]
   },
   {
-    "image": "assets/images/questions/guernica.jpg",
+    "image": "assets/questions/guernica.jpg",
     "question": "Lukisan ini dibuat oleh siapa?",
     "correct_answer": "Pablo Picasso",
     "options": ["Pablo Picasso", "Dali", "Van Gogh", "Monet"]
   },
   {
-    "image": "assets/images/questions/persistence_memory.jpg",
+    "image": "assets/questions/persistence_memory.jpg",
     "question": "Lukisan jam meleleh ini berjudul?",
     "correct_answer": "The Persistence of Memory",
     "options": ["The Persistence of Memory", "The Scream", "Guernica", "The Kiss"]
   },
   {
-    "image": "assets/images/questions/the_scream.jpg",
+    "image": "assets/questions/the_scream.jpg",
     "question": "Lukisan ini berasal dari negara mana?",
     "correct_answer": "Norwegia",
     "options": ["Norwegia", "Swedia", "Denmark", "Finlandia"]
   },
   {
-    "image": "assets/images/questions/girl_pearl.jpg",
+    "image": "assets/questions/girl_pearl.jpg",
     "question": "Apa judul lukisan ini?",
     "correct_answer": "Girl with a Pearl Earring",
     "options": ["Girl with a Pearl Earring", "The Milkmaid", "The Night Watch", "Mona Lisa"]
   },
   {
-    "image": "assets/images/questions/impression_sunrise.jpg",
+    "image": "assets/questions/impression_sunrise.jpg",
     "question": "Lukisan ini merupakan awal dari aliran apa?",
     "correct_answer": "Impresionisme",
     "options": ["Impresionisme", "Realisme", "Abstrak", "Barok"]
   },
   {
-    "image": "assets/images/questions/diponegoro.jpg",
+    "image": "assets/questions/diponegoro.jpg",
     "question": "Lukisan ini menggambarkan peristiwa apa?",
     "correct_answer": "Penangkapan Pangeran Diponegoro",
     "options": ["Penangkapan Pangeran Diponegoro", "Perang Diponegoro", "Proklamasi", "Kolonialisme"]
   },
   {
-    "image": "assets/images/questions/night_watch.jpg",
+    "image": "assets/questions/night_watch.jpg",
     "question": "Apa judul lukisan ini?",
     "correct_answer": "The Night Watch",
     "options": ["The Night Watch", "The Scream", "Guernica", "Mona Lisa"]
